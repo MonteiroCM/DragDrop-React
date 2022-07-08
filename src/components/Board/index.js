@@ -4,7 +4,7 @@ import { loadLists } from '../../service/api'
 import List from '../List'
 import BoardContext from './context'
 
-import { Conteiner } from '../Header/styles'
+import { Conteiner } from './styles'
 
 const data = loadLists()
 
